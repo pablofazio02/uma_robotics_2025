@@ -1,0 +1,1 @@
+He hecho la parte opcional sobre escribir sobre un sensor que se puede montar en un robot móvil, he escrito sobre las cámaras RGB-D.
